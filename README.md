@@ -1,2 +1,2 @@
-# ElegooIRRemoteFuncExample
-Elegoo / Arduino example code for the Elegoo IR Remote
+The button codes match the remote provided in the Elegoo starter kit.
+https://www.elegoo.com/product/elegoo-uno-project-super-starter-kit/
